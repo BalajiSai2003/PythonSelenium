@@ -1,2 +1,2 @@
 # PythonSelenium
- reating automation tools using   Selenium in Python
+ Creating automation tools using   Selenium in Python
